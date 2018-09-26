@@ -1,0 +1,8 @@
+name: HDDiscord
+author: CoverXProjects
+version: 1
+main: eu.coverxprojects.hddiscord.Main
+commands:
+  discord:
+    description: Gives you the discord
+    aliases: [dc]
